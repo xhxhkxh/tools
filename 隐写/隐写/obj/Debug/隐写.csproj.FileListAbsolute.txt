@@ -1,0 +1,10 @@
+F:\repos\隐写\隐写\bin\Debug\隐写.exe.config
+F:\repos\隐写\隐写\bin\Debug\隐写.exe
+F:\repos\隐写\隐写\bin\Debug\隐写.pdb
+F:\repos\隐写\隐写\obj\Debug\隐写.csprojAssemblyReference.cache
+F:\repos\隐写\隐写\obj\Debug\隐写.Form1.resources
+F:\repos\隐写\隐写\obj\Debug\隐写.Properties.Resources.resources
+F:\repos\隐写\隐写\obj\Debug\隐写.csproj.GenerateResource.cache
+F:\repos\隐写\隐写\obj\Debug\隐写.csproj.CoreCompileInputs.cache
+F:\repos\隐写\隐写\obj\Debug\隐写.exe
+F:\repos\隐写\隐写\obj\Debug\隐写.pdb
